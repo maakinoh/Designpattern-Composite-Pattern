@@ -1,1 +1,1 @@
-My first Project of my software pattern course as part of my training
+My first Project of the software pattern course as part of my training
